@@ -1,13 +1,15 @@
 # APUNTS MR
 _Apunts del curs per dies_
-
-
-Mira **Deployment** para conocer ### Instalacions inicials 🔧
+### Instalacions inicials 🔧
 
 _Soft Install_
 
 ```
 Ubuntu 
+* Item 1
+* Item 2
+    * Item 2a
+    * Item 2b
 ```
 
 ### Apunts 📋
@@ -23,7 +25,4 @@ Preguntes, etc
 _Parts de codi per executar_
 
 
-* Item 1
-* Item 2
-    * Item 2a
-    * Item 2b
+
