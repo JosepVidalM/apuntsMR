@@ -12,7 +12,7 @@ Ubuntu
     * Item 2b
 ```
 
-### Apunts 📋
+### Apunts 📋 i Codi ⚙️
 
 _Varis_
 
@@ -20,9 +20,6 @@ _Varis_
 Preguntes, etc
 ```
 
-## Codi ⚙️
-
-_Parts de codi per executar_
 
 
 
