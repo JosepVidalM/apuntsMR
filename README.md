@@ -1,13 +1,8 @@
 # APUNTS MR
 _Apunts del curs per dies_
 
-## Iniciant 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-### Instalacions 🔧
+Mira **Deployment** para conocer ### Instalacions inicials 🔧
 
 _Soft Install_
 
@@ -15,40 +10,17 @@ _Soft Install_
 Ubuntu 
 ```
 
+### Apunts 📋
 
-### Pre-requisitos 📋
-
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
-
-
-
-_Y repite_
+_Varis_
 
 ```
-hasta finalizar
+Preguntes, etc
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+## Codi ⚙️
 
-## Ejecutando las pruebas ⚙️
+_Parts de codi per executar_
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
 
-### Analice las pruebas end-to-end 🔩
 
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
